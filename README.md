@@ -8,8 +8,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## 🚀 Links
 
-- [Live site]()
-- [Solution on Frontend Mentor]()
+- [Live site](https://yasminabdelhalim.github.io/qrcode-challenge/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/the-challenge-made-me-feel-free-to-use-css-tools-in-responsive-tech-Ev6-vR1VwQ)
 
 ## 🛠️ Built with
 
